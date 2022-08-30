@@ -1,0 +1,7 @@
+.idea
+!.idea/vcs.xml
+!.idea/codeStyles
+!.idea/runConfigurations
+build
+out
+.gradle
